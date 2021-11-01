@@ -6,12 +6,9 @@
 int main()
 {
     //display the welcome message
-    std::cout << "************************************************************************************** \n" ;
-
-    std::cout << "****************** What did the detective cheese say to the suspect cheese? *****************\n" ;
-    std::cout << "************************* I smell something swiss-picious :) ***********************\n";
-
-    std::cout << "***************************************************************************************\n" ;
+    std::cout << "************************************************************** \n" ;
+    std::cout << "****************** Welcome to my Cheesy Program *****************\n" ;
+    std::cout << "**************************************************************\n" ;
     std::cout << "\n" ;
     //declaring constants
     const float chs_cont = 2.76, cost_cont=4.12, profit_cont = 1.45;
